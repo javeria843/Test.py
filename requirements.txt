@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+python-dotenv
+PyMuPDF
+deep-translator
+PyPDF2
+fpdf
+
