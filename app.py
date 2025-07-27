@@ -22,7 +22,7 @@ languages = {
 }
 
 # ✅ PDF path
-PDF_PATH = r"C:\Users\Administrator\Downloads\Principles\English_Principles_of_Islam.pdf"
+PDF_PATH = r"pdf.pdf"
 
 # ✅ Extract PDF text
 try:
